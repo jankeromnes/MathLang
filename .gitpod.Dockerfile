@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-full:branch-gpl-update-rust
 
 USER root
 
